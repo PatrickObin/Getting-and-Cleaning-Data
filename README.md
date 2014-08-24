@@ -1,4 +1,4 @@
-run_analyis.R script description
+run_analysis.R script description
 =========================
 
 The script contains a single function called **createTidyDataset** that has not any argument.
@@ -8,7 +8,7 @@ The script contains a single function called **createTidyDataset** that has not 
 
 ###Way to launch the script
   1. Download the run_analysis.R file in your working directory
-  2. type in R **source("run_analyis.R")**
+  2. type in R **source("run_analysis.R")**
   3. call the function by typing **createTidyDataset()**
 
 ###Result of the script
